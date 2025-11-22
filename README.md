@@ -23,19 +23,5 @@ Proyek ini dibangun menggunakan teknologi web dasar untuk memastikan kecepatan a
  * Vanilla JavaScript: Logika fungsionalitas Tools AI (Idea Generator, Chat Demo).
  * Tailwind CSS: Framework utilitas CSS untuk desain yang modern, responsif, dan adaptif di semua perangkat (Mobile-First Design).
  * Lucide Icons: Kumpulan ikon vektor sederhana.
-⚙️ Cara Deploy (GitHub Pages)
-Karena Zaluzo adalah proyek statis (hanya HTML, CSS, dan JS), Anda dapat menjalankannya langsung di browser atau meng-online-kannya menggunakan GitHub Pages.
-Prasyarat
- * Akun GitHub.
- * File utama harus diberi nama index.html.
-Langkah-Langkah Deployment
- * Buat Repository: Buat repository baru di GitHub (misal: zaluzo-web).
- * Upload File: Unggah seluruh kode (terutama index.html) ke repository tersebut.
- * Aktifkan Pages:
-   * Buka Settings > Pages di repository Anda.
-   * Pilih main (atau master) pada bagian Branch.
-   * Klik Save.
- * Akses: Tunggu 1-2 menit. Website Anda akan aktif di alamat: https://USERNAME-ANDA.github.io/zaluzo-web/
-📝 Lisensi
-Proyek ini bersifat Open Source. Anda bebas untuk memodifikasi, menyebarkan, atau menggunakannya kembali untuk tujuan non-komersial.
+⚙️ 
 Created by Zaluzo Community Logic.
